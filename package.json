@@ -1,0 +1,16 @@
+{
+  "name": "uploadimage",
+  "version": "1.0.0",
+  "description": "image upload in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "author": "Suraj Chand",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
